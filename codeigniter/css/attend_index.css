@@ -1,0 +1,434 @@
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+    }
+
+    header {
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+        /*background-color: #333;*/
+        background: rgb(250, 27, 116);
+        background: linear-gradient(90deg, rgba(250, 27, 116, 1) 13%, rgba(250, 93, 179, 1) 68%);
+    }
+
+    .head-logo {
+        width: 200px;
+        height: 130px;
+        padding-left: 10px;
+        z-index: 3;
+    }
+
+    .top-menu {
+        height: 56px;
+        width: 600px;
+        text-align: right;
+        float: right;
+        position:relative;
+        left:100px;
+    }
+
+    .top-menu ul {
+        margin-top: 80px;
+
+    }
+
+    ul {
+        overflow: hidden;
+        list-style: none;
+        margin: 0 auto;
+        z-index: 20;
+    }
+
+    ul li {
+        display: inline-block;
+        padding: 26px 10px 20px 10px;
+    }
+
+    a {
+        /*color:#fa1b74 ;*/
+        color: black;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: blue;
+    }
+
+    thead, tbody {
+
+        display: block;
+
+    }
+
+    .attend-table tbody {
+        overflow-x: hidden;
+        overflow-y: scroll;
+        height: 300px;
+    }
+
+    .attend-table {
+        /*width:840px;*/
+        border-collapse: separate;
+        border-spacing: 0;
+        margin-bottom: 10px;
+        position: relative;
+        z-index: 3;
+        float: left;
+        margin-top: 30px;
+        /*margin-left: 200px;*/
+        margin-left: 100px;
+    }
+
+    .attend-table th:first-child {
+        border-radius: 5px 0 0 0;
+    }
+
+    .attend-table th:last-child {
+        border-radius: 0 5px 0 0;
+        border-right: 1px solid #3c6690;
+    }
+
+    .attend-table th {
+        text-align: center;
+        color: white;
+        background: linear-gradient(#333333, #fa1b74);
+        border-left: 1px solid #3c6690;
+        border-top: 1px solid #3c6690;
+        border-bottom: 1px solid #3c6690;
+        box-shadow: 0px 1px 1px rgba(255, 255, 255, 0.3) inset;
+        width: 142px;
+        padding: 10px 0;
+    }
+
+    .attend-table td {
+        text-align: center;
+        border-left: 1px solid #a8b7c5;
+        border-bottom: 1px solid #a8b7c5;
+        border-top: none;
+        box-shadow: 0px -3px 5px 1px #eee inset;
+        width: 142px;
+        background-color: white;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .attend-table td:last-child {
+        border-right: 1px solid #a8b7c5;
+    }
+
+    .attend-table tr:last-child td:first-child {
+        border-radius: 0 0 0 5px;
+    }
+
+    .attend-table tr:last-child td:last-child {
+        border-radius: 0 0 5px 0;
+    }
+
+    .attend-table tr:hover td {
+        background: rgba(245, 181, 218, 1);
+    }
+
+    .submit-button {
+        background: none;
+        border: 0;
+        border-radius: 20px;
+        background-color: #f5f5f5;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    .submit-button:hover {
+        opacity: 0.7;
+    }
+
+
+    .attend-title {
+        color: #FFCFCF;
+        border-bottom: 3px dotted;
+        border-color: white;
+        font-family: Anton;
+        font-weight: 700;
+        /*width: 840px;*/
+        width: 800px;
+        /*margin-left: 200px;*/
+        margin-left: 100px;
+        padding-top: 20px;
+        z-index: 3;
+        float: left;
+    }
+
+    footer {
+        height: 30px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+        background-color: #333;
+    }
+
+    .area {
+        /* background: linear-gradient(90deg, rgba(111,111,111,1) 21%, rgba(236,232,232,1) 86%); */
+        background-color: black;
+        width: 100%;
+        height: 100vh;
+    }
+
+    .circles {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        z-index: 2;
+    }
+
+    .circles li {
+        position: absolute;
+        display: block;
+        list-style: none;
+        width: 20px;
+        height: 20px;
+        /*background: rgba(255, 255, 255, 0.2);*/
+        background: rgba(245, 181, 218, 0.4);
+        animation: animate 25s linear infinite;
+        bottom: -150px;
+
+    }
+
+    .circles li:nth-child(1) {
+        left: 25%;
+        width: 80px;
+        height: 80px;
+        animation-delay: 0s;
+    }
+
+
+    .circles li:nth-child(2) {
+        left: 10%;
+        width: 20px;
+        height: 20px;
+        animation-delay: 2s;
+        animation-duration: 12s;
+    }
+
+    .circles li:nth-child(3) {
+        left: 70%;
+        width: 20px;
+        height: 20px;
+        animation-delay: 4s;
+    }
+
+    .circles li:nth-child(4) {
+        left: 40%;
+        width: 60px;
+        height: 60px;
+        animation-delay: 0s;
+        animation-duration: 18s;
+    }
+
+    .circles li:nth-child(5) {
+        left: 65%;
+        width: 20px;
+        height: 20px;
+        animation-delay: 0s;
+    }
+
+    .circles li:nth-child(6) {
+        left: 75%;
+        width: 110px;
+        height: 110px;
+        animation-delay: 3s;
+    }
+
+    .circles li:nth-child(7) {
+        left: 35%;
+        width: 150px;
+        height: 150px;
+        animation-delay: 7s;
+    }
+
+    .circles li:nth-child(8) {
+        left: 50%;
+        width: 25px;
+        height: 25px;
+        animation-delay: 15s;
+        animation-duration: 45s;
+    }
+
+    .circles li:nth-child(9) {
+        left: 20%;
+        width: 15px;
+        height: 15px;
+        animation-delay: 2s;
+        animation-duration: 35s;
+    }
+
+    .circles li:nth-child(10) {
+        left: 85%;
+        width: 150px;
+        height: 150px;
+        animation-delay: 0s;
+        animation-duration: 11s;
+    }
+
+    @keyframes animate {
+
+        0% {
+            transform: translateY(0) rotate(0deg);
+            opacity: 1;
+            border-radius: 50%;
+        }
+
+        100% {
+            transform: translateY(-1000px) rotate(720deg);
+            opacity: 0;
+            border-radius: 50%;
+        }
+
+    }
+
+    .box30 {
+        margin: 2em 0;
+        background: #f1f1f1;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+        width: 250px;
+        float: right;
+        z-index: 3;
+        margin-right: 70px;
+    }
+
+    .box30 .box-title {
+        font-size: 1.2em;
+        background: linear-gradient(#333333, #fa1b74);
+        padding: 4px;
+        text-align: center;
+        color: #FFF;
+        font-weight: bold;
+        letter-spacing: 0.05em;
+    }
+
+    .box30 p {
+        padding: 15px 20px;
+        margin: 0;
+    }
+
+    .head_image:hover {
+        opacity: 0.6;
+        transition-duration: 0.3s;
+        transform: scale(1.2);
+
+    }
+
+    /*ここから新規従業員登録画面のcss*/
+    .create-emp-title {
+        border-bottom: 3px dotted;
+        border-color: white;
+        font-family: Anton;
+        font-weight: 700;
+        width: 840px;
+        padding-top: 20px;
+        z-index: 3;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .inputform {
+        width: 440px;
+        margin: 0 auto;
+        margin-top: 30px;
+        z-index: 3;
+
+    }
+
+    .inputform table {
+        margin: 0 auto;
+
+    }
+
+    .inputform td {
+        height: 60px;
+    }
+
+    .inputform input {
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+
+    .input_form_head {
+        background: linear-gradient(#333333, #fa1b74);
+        width: 143px;
+    }
+
+    .input_button {
+        display: inline-block;
+        border-radius: 6%; /* 角丸 */
+        font-size: 18pt; /* 文字サイズ */
+        text-align: center; /* 文字位置 */
+        cursor: pointer; /* カーソル */
+        padding: 12px 82px; /* 余白 */
+        background: linear-gradient(#333333, #fa1b74); /* 背景色 */
+        color: #ffffff; /* 文字色 */
+        line-height: 1em; /* 1行の高さ */
+        transition: .3s; /* なめらか変化 */
+        box-shadow: 6px 6px 3px #666666; /* 影の設定 */
+        border: 2px solid; /* 枠の指定 */
+        margin-top: 15px;
+    }
+
+    .input_button:hover {
+        box-shadow: none; /* カーソル時の影消去 */
+        opacity: 0.7;
+    }
+
+    .select-bar {
+        float: right;
+        z-index: 3;
+        margin-top: 30px;
+        padding-right:100px;
+    }
+
+    .select-bar select {
+        width: 140px;
+        height: 30px;
+        border-radius: 10px;
+    }
+
+    .placement{
+        width:400px;
+        z-index:3;
+        margin-top:40px;
+    }
+
+    .login-button{
+        float: right;
+        z-index: 3;
+        margin-right: 50px;
+        margin-top: 10px;
+        border-radius : 10%;          /* 角丸       */
+        padding-right: 3px;
+        padding-left: 3px;
+        text-align    : center;      /* 文字位置   */
+        cursor        : pointer;     /* カーソル   */
+        background-color: #363535;
+        transition    : .3s;         /* なめらか変化 */
+        border        : 2px solid rgba(153, 153, 153, 0);    /* 枠の指定 */
+    }
+
+    .login-button:hover {
+        opacity: 0.5 ;
+    }
+
+
+    /*pc用のcss設定*/
+    @media screen and (min-width:1030px) {
+        .pc-width th {
+            width:192px;
+        }
+
+        .pc-width td {
+            width:192px;
+        }
+    }

@@ -1,0 +1,18 @@
+{
+	"description" : "The CodeIgniter Application with Composer",
+	"require": {
+		"php": "7.1.*",
+		"codeigniter/framework": "3.1.*"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"app\\model\\": "application/models/",
+			"app\\controller\\": "application/controllers/",
+			"app\\core\\": "application/core/",
+			"app\\libraries\\": "application/libraries/"
+		}
+	}
+}

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:kinoshita" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ogura" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:kinoshita" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3677231b-9300-4eef-af5c-ae92c9dd51d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/Admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/Attend.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/Shift.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/controllers/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/attend.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/controllers/attend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/controllers/shift.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/controllers/shift.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/core/MY_Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/core/MY_Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/CommonTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/CommonTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/ImageManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/ImageManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/ModelManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/ModelManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Attend.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Attend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/libraries/logic/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/models/Employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/models/Employee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/models/Punch.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/models/Punch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/models/UserAttend.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/models/UserAttend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/AttendConfirmation.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/attend_confirmation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/AttendManagerMenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/attend_manager_menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/CreateUserMenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/create_user_menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/SelectUserMenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/SelectUserMenu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/ShiftManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/shift_manager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/attend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/attend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeigniter/application/views/common/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeigniter/application/views/common/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/codeigniter/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="740b884e-f571-4381-b759-5a83fdfe50b6" name="localhost" />
+      <server host="192.168.1.3" id="f9d06bc5-a46d-4484-b93b-a2209218afc1" name="192.168.1.3" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/codeigniter/vendor/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/codeigniter/vendor/codeigniter/framework" />
+      <path value="$PROJECT_DIR$/codeigniter/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WTyBERJrkxTGM7AZssjU1nouMf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codeigniter/application/views/attend" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hachimaro\codeigniter\application\views\attend" />
+      <recent name="C:\xampp\htdocs\hachimaro\codeigniter\application\language" />
+      <recent name="C:\xampp\htdocs\hachimaro\codeigniter\application" />
+      <recent name="C:\Users\k.ogura\product\hachimaro\codeigniter\application\controllers" />
+      <recent name="C:\Users\k.ogura\product\hachimaro\codeigniter\application\models" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3677231b-9300-4eef-af5c-ae92c9dd51d9" name="Default Changelist" comment="" />
+      <created>1554384916678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554384916678</updated>
+      <workItem from="1554384918268" duration="3655000" />
+      <workItem from="1554392304879" duration="745000" />
+      <workItem from="1554902494063" duration="943000" />
+      <workItem from="1579187769342" duration="2904000" />
+      <workItem from="1589195473571" duration="6156000" />
+      <workItem from="1589426562428" duration="1991000" />
+      <workItem from="1590133738738" duration="8286000" />
+      <workItem from="1590384514970" duration="14266000" />
+      <workItem from="1590470322856" duration="4775000" />
+      <workItem from="1590546508142" duration="7708000" />
+      <workItem from="1590566718325" duration="4321000" />
+      <workItem from="1590643511469" duration="9403000" />
+      <workItem from="1590739020400" duration="792000" />
+      <workItem from="1590992262132" duration="9605000" />
+      <workItem from="1591064639234" duration="150000" />
+      <workItem from="1591064797356" duration="80232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1732" y="9" key="#Inspections" timestamp="1590650155949">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1732" y="9" key="#Inspections/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590650155949" />
+    <state x="1732" y="9" key="#Notifications" timestamp="1590651367803">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1732" y="9" key="#Notifications/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590651367803" />
+    <state x="1720" y="7" key="#Servers" timestamp="1590651268294">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1720" y="7" key="#Servers/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590651268294" />
+    <state x="1832" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590650324651">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1832" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590650324651" />
+    <state x="1983" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1590385098586">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1983" y="82" key="#com.intellij.ide.util.MemberChooser/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590385098586" />
+    <state x="1938" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590138754333">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1938" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590138754333" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591585356765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591585356765" />
+    <state x="2046" y="225" key="#com.jetbrains.php.refactoring.makeStatic.PhpMakeStaticDialog" timestamp="1590653705041">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="2046" y="225" key="#com.jetbrains.php.refactoring.makeStatic.PhpMakeStaticDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653705041" />
+    <state x="1934" y="241" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591000959029">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1934" y="241" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591000959029" />
+    <state x="1970" y="132" key="FileChooserDialogImpl" timestamp="1590739053812">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1970" y="132" key="FileChooserDialogImpl/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590739053812" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.0.bottom/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.0.center/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.0.left/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.0.right/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.1.bottom/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.1.center" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.1.center/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.1.left" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.1.left/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.1.right" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.1.right/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.2.bottom" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.2.bottom/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984878" />
+    <state width="1493" height="212" key="GridCell.Tab.2.center" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.2.center/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.2.left" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.2.left/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984877" />
+    <state width="1493" height="212" key="GridCell.Tab.2.right" timestamp="1591582181210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591582181210" />
+    <state width="1541" height="314" key="GridCell.Tab.2.right/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653984878" />
+    <state x="415" y="193" key="NewPhpClassDialog" timestamp="1591346149211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="193" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1591346149211" />
+    <state x="1872" y="204" key="NewPhpClassDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591000937994" />
+    <state x="565" y="323" key="NewPhpFileDialog" timestamp="1591346094426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="323" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1591346094426" />
+    <state x="2029" y="341" key="NewPhpFileDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591000944290" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1591345876198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591345876198" />
+    <state x="1625" y="0" key="SettingsEditor/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591002371178" />
+    <state x="1778" y="0" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1590398475783">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1778" y="0" key="com.jetbrains.php.test.PhpNewTestDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590398475783" />
+    <state x="83" y="0" width="1211" height="737" maximized="true" key="dock-window-1" timestamp="1589195553442">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="83" y="0" width="1211" height="737" maximized="true" key="dock-window-1/1920.0.1600.854/3520.0.1440.870/0.0.1280.689@1920.0.1600.854" timestamp="1589195553442" />
+    <state x="1544" y="0" width="1514" height="920" key="dock-window-2" timestamp="1589426704264">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1544" y="0" width="1514" height="920" key="dock-window-2/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1589426704264" />
+    <state x="83" y="0" width="1211" height="737" key="dock-window-2/1920.0.1600.854/3520.0.1440.870/0.0.1280.689@1920.0.1600.854" timestamp="1589195988469" />
+    <state x="120" y="0" width="1174" height="737" maximized="true" key="dock-window-3" timestamp="1589198568366">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="120" y="0" width="1174" height="737" maximized="true" key="dock-window-3/1920.0.1600.854/3520.0.1440.870/0.0.1280.689@1920.0.1600.854" timestamp="1589198568366" />
+    <state x="0" y="0" width="1008" height="824" key="find.popup" timestamp="1592383002405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1008" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592383002405" />
+    <state x="1440" y="0" width="1049" height="870" key="find.popup/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591000568582" />
+    <state x="1920" y="0" width="1049" height="854" key="find.popup/1920.0.1600.854/3520.0.1440.870/0.0.1280.689@1920.0.1600.854" timestamp="1589200233650" />
+    <state x="1922" y="7" key="refactoring.ChangeSignatureDialog" timestamp="1590653697669">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1922" y="7" key="refactoring.ChangeSignatureDialog/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590653697669" />
+    <state x="1812" y="194" key="run.anything.popup" timestamp="1590654778117">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1812" y="194" key="run.anything.popup/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1590654778117" />
+    <state x="1819" y="0" width="840" height="868" key="search.everywhere.popup" timestamp="1591000958387">
+      <screen x="1440" y="0" width="1600" height="870" />
+    </state>
+    <state x="1819" y="0" width="840" height="868" key="search.everywhere.popup/1440.0.1600.870/3040.0.1440.870/0.0.1440.870@1440.0.1600.870" timestamp="1591000958387" />
+    <state x="2299" y="0" width="840" height="852" key="search.everywhere.popup/1920.0.1600.854/3520.0.1440.870/0.0.1280.689@1920.0.1600.854" timestamp="1589200749792" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/codeigniter/framework/system/core/Loader.php</url>
+          <line>317</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/codeigniter/framework/system/core/Loader.php</url>
+          <line>314</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
